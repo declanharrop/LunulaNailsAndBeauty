@@ -19,14 +19,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://lunulanailsandbeauty.com/sam.html</loc>
-    <lastmod>2018-06-07</lastmod>
+    <loc>http://lunulanailsandbeauty.com/georgia.html</loc>
+    <lastmod>2018-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lunulanailsandbeauty.com/georgia.html</loc>
-    <lastmod>2018-05-31</lastmod>
+    <loc>http://lunulanailsandbeauty.com/sam.html</loc>
+    <lastmod>2018-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -278,7 +278,7 @@
   </url>
   <url>
     <loc>http://lunulanailsandbeauty.com/menu.html</loc>
-    <lastmod>2018-05-31</lastmod>
+    <lastmod>2018-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -288,24 +288,6 @@
     <image:image>
       <image:loc>http://lunulanailsandbeauty.com/images/bottle20x62_2x.png</image:loc>
       <image:caption>Lunula bottle logo</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://lunulanailsandbeauty.com/blog.html</loc>
-    <lastmod>2018-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://lunulanailsandbeauty.com/images/bottle.png</image:loc>
-      <image:caption>Lunula bottle logo</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://lunulanailsandbeauty.com/images/bottle_2x.png</image:loc>
-      <image:caption>Lunula bottle logo</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://lunulanailsandbeauty.com/images/38cologowhite.svg</image:loc>
-      <image:caption>ThirtyEight Co Logo</image:caption>
     </image:image>
   </url>
   <url>
@@ -425,6 +407,12 @@
     </image:image>
   </url>
   <url>
+    <loc>http://lunulanailsandbeauty.com/assets/toespediluxgel.jpg</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://lunulanailsandbeauty.com/assets/babylupedi.jpg</loc>
     <lastmod>2018-01-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -461,8 +449,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lunulanailsandbeauty.com/assets/dipextendadvanced.jpg</loc>
-    <lastmod>2018-03-20</lastmod>
+    <loc>http://lunulanailsandbeauty.com/assets/toespedistand.jpg</loc>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -473,8 +461,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lunulanailsandbeauty.com/assets/toespediluxgel.jpg</loc>
-    <lastmod>2018-01-29</lastmod>
+    <loc>http://lunulanailsandbeauty.com/assets/dipextendbasix.jpg</loc>
+    <lastmod>2018-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -517,12 +505,6 @@
   <url>
     <loc>http://lunulanailsandbeauty.com/assets/hybridlash.jpg</loc>
     <lastmod>2018-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://lunulanailsandbeauty.com/assets/toespedistand.jpg</loc>
-    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -659,6 +641,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://lunulanailsandbeauty.com/assets/dipextendadvanced.jpg</loc>
+    <lastmod>2018-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://lunulanailsandbeauty.com/assets/fullmakeup.jpg</loc>
     <lastmod>2018-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -666,12 +654,6 @@
   </url>
   <url>
     <loc>http://lunulanailsandbeauty.com/assets/dipextendaxents.jpg</loc>
-    <lastmod>2018-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://lunulanailsandbeauty.com/assets/dipextendbasix.jpg</loc>
     <lastmod>2018-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

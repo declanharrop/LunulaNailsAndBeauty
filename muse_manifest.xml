@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="lunulanailsandbeauty.com" resolutions="1x,2x" timestamp="1532957043524">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="lunulanailsandbeauty.com" resolutions="1x,2x" timestamp="1532963037510">
   <folder name="css">
-    <file name="site_global.css" crc="4278691848"/>
+    <file name="site_global.css" crc="3989616870"/>
     <file name="master_person.css" crc="131545287" ref="carly:nat:georgia:ellen:becca:paige:emma:sam:alicia:faye:janine:nikki:kat"/>
     <file name="nomq_preview_master_person.css" crc="3824530138" ref="carly:nat:georgia:ellen:becca:paige:emma:sam:alicia:faye:janine:nikki:kat"/>
-    <file name="master_mainmaster.css" crc="85903906" ref="learn:face:index:gallery:body:team:blog:book:eyes:nails:info:contact"/>
-    <file name="nomq_preview_master_mainmaster.css" crc="3895308403" ref="learn:face:index:gallery:body:team:blog:book:eyes:nails:info:contact"/>
+    <file name="master_mainmaster.css" crc="85903906" ref="learn:face:index:gallery:body:team:book:eyes:nails:info:contact"/>
+    <file name="nomq_preview_master_mainmaster.css" crc="3895308403" ref="learn:face:index:gallery:body:team:book:eyes:nails:info:contact"/>
     <file name="learn.css" crc="97112278" ref="learn"/>
     <file name="nomq_learn.css" crc="3788019218" ref="learn"/>
     <file name="iefonts_learn.css" crc="360914807" ref="learn"/>
@@ -29,9 +29,6 @@
     <file name="nat.css" crc="370598929" ref="nat"/>
     <file name="nomq_nat.css" crc="4055799622" ref="nat"/>
     <file name="iefonts_nat.css" crc="360914807" ref="nat"/>
-    <file name="blog.css" crc="305915524" ref="blog"/>
-    <file name="nomq_blog.css" crc="110105917" ref="blog"/>
-    <file name="iefonts_blog.css" crc="360914807" ref="blog"/>
     <file name="georgia.css" crc="373247375" ref="georgia"/>
     <file name="nomq_georgia.css" crc="4064373231" ref="georgia"/>
     <file name="iefonts_georgia.css" crc="360914807" ref="georgia"/>
@@ -65,7 +62,7 @@
     <file name="info.css" crc="363841731" ref="info"/>
     <file name="nomq_info.css" crc="232564033" ref="info"/>
     <file name="iefonts_info.css" crc="360914807" ref="info"/>
-    <file name="menu.css" crc="494662327" ref="menu"/>
+    <file name="menu.css" crc="382303405" ref="menu"/>
     <file name="faye.css" crc="4290233361" ref="faye"/>
     <file name="nomq_faye.css" crc="3968920702" ref="faye"/>
     <file name="iefonts_faye.css" crc="360914807" ref="faye"/>
@@ -127,23 +124,23 @@
     <file name="hybridlash.jpg" crc="66448826" seo="true" mt="1529442386000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="info:gallery:nails:eyes:learn:face:blog:menu:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
-    <file name="museutils.js" crc="340535759" ref="info:gallery:nails:eyes:learn:face:blog:menu:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
-    <file name="whatinput.js" crc="86476730" ref="info:gallery:nails:eyes:learn:face:blog:menu:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
-    <file name="museconfig.js" crc="310584261" ref="info:gallery:nails:eyes:learn:face:blog:menu:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="info:gallery:nails:eyes:learn:face:menu:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
+    <file name="museutils.js" crc="340535759" ref="info:gallery:nails:eyes:learn:face:menu:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
+    <file name="whatinput.js" crc="86476730" ref="info:gallery:nails:eyes:learn:face:menu:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
+    <file name="museconfig.js" crc="310584261" ref="info:gallery:nails:eyes:learn:face:menu:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="info:gallery:learn:index:contact:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
-    <file name="jquery.watch.js" crc="51536988" ref="info:gallery:nails:eyes:learn:face:blog:menu:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
-    <file name="webpro.js" crc="4059564322" ref="info:gallery:nails:eyes:learn:face:blog:index:contact:book:body:team"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="info:gallery:nails:eyes:learn:face:blog:index:contact:book:body:team"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="info:gallery:nails:eyes:learn:face:blog:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
-    <file name="require.js" crc="7928878" ref="info:gallery:nails:eyes:learn:face:blog:menu:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
+    <file name="jquery.watch.js" crc="51536988" ref="info:gallery:nails:eyes:learn:face:menu:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
+    <file name="webpro.js" crc="4059564322" ref="info:gallery:nails:eyes:learn:face:index:contact:book:body:team"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="info:gallery:nails:eyes:learn:face:index:contact:book:body:team"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="info:gallery:nails:eyes:learn:face:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
+    <file name="require.js" crc="7928878" ref="info:gallery:nails:eyes:learn:face:menu:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3977583769" ref="info"/>
+    <file name="favicon.ico" crc="3977583769" ref="info:menu"/>
     <file name="homeheaderimage.jpg" crc="3867917178" ref="info:learn:index:contact:body">
       <caption webpage="info" alt=""/>
     </file>
-    <file name="bottle.png" crc="4277410488" seo="true" ref="info:gallery:nails:eyes:learn:face:blog:index:contact:book:body:team">
+    <file name="bottle.png" crc="4277410488" seo="true" ref="info:gallery:nails:eyes:learn:face:index:contact:book:body:team">
       <caption webpage="info" alt="Lunula bottle logo"/>
       <caption webpage="info" alt="Lunula bottle logo"/>
       <caption webpage="info" alt="Lunula bottle logo"/>
@@ -172,7 +169,7 @@
       <caption webpage="face" alt="Lunula bottle logo"/>
       <caption webpage="face" alt="Lunula bottle logo"/>
     </file>
-    <file name="bottle_2x.png" crc="522649580" seo="true" ref="info:gallery:nails:eyes:learn:face:blog:index:contact:book:body:team">
+    <file name="bottle_2x.png" crc="522649580" seo="true" ref="info:gallery:nails:eyes:learn:face:index:contact:book:body:team">
       <caption webpage="info" alt="Lunula bottle logo"/>
       <caption webpage="info" alt="Lunula bottle logo"/>
       <caption webpage="info" alt="Lunula bottle logo"/>
@@ -283,8 +280,8 @@
     <file name="bookiconalt_2x.png" crc="159544182" ref="info:gallery:team">
       <caption webpage="info" alt=""/>
     </file>
-    <file name="u28323-4.png" crc="332136862" ref="info:gallery:nails:eyes:learn:face:blog:index:contact:book:body:team"/>
-    <file name="u28323-4_2x.png" crc="4041642390" ref="info:gallery:nails:eyes:learn:face:blog:index:contact:book:body:team"/>
+    <file name="u28323-4.png" crc="332136862" ref="info:gallery:nails:eyes:learn:face:index:contact:book:body:team"/>
+    <file name="u28323-4_2x.png" crc="4041642390" ref="info:gallery:nails:eyes:learn:face:index:contact:book:body:team"/>
     <file name="facebookiconwhite.png" crc="3845046807" ref="info:gallery:team">
       <caption webpage="info" alt=""/>
     </file>
@@ -297,7 +294,7 @@
     <file name="instagramiconwhite_2x.png" crc="3886830499" ref="info:gallery:team">
       <caption webpage="info" alt=""/>
     </file>
-    <file name="38cologowhite.svg" crc="418635069" seo="true" ref="info:gallery:nails:eyes:learn:face:blog:index:contact:book:body:team">
+    <file name="38cologowhite.svg" crc="418635069" seo="true" ref="info:gallery:nails:eyes:learn:face:index:contact:book:body:team">
       <caption webpage="info" alt="ThirtyEight Co Logo"/>
       <caption webpage="info" alt="ThirtyEight Co Logo"/>
       <caption webpage="info" alt="ThirtyEight Co Logo"/>
@@ -327,13 +324,7 @@
       <caption webpage="face" alt="ThirtyEight Co Logo"/>
     </file>
     <file name="38cologowhite_poster_.png" crc="3823090775" ref="info"/>
-    <file name="blank.gif" crc="4208392903" ref="info:gallery:nails:eyes:learn:face:blog:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
-    <file name="bloglink.jpg" crc="4013698704" ref="menu">
-      <caption webpage="menu" alt=""/>
-    </file>
-    <file name="bloglink_2x.jpg" crc="3814749900" ref="menu">
-      <caption webpage="menu" alt=""/>
-    </file>
+    <file name="blank.gif" crc="4208392903" ref="info:gallery:nails:eyes:learn:face:index:contact:book:body:team:alicia:paige:carly:becca:ellen:faye:nikki:emma:nat:kat:janine:georgia:sam"/>
     <file name="bottle20x62.png" crc="4093727284" seo="true" ref="menu">
       <caption webpage="menu" alt="Lunula bottle logo"/>
     </file>
@@ -498,8 +489,7 @@
   <file name="eyes.html" crc="3883516087" seo="true" mt="1529442985659" redirect="true"/>
   <file name="learn.html" crc="472454020" seo="true" mt="1527760051540" redirect="true"/>
   <file name="face.html" crc="3945243309" seo="true" mt="1529442599959" redirect="true"/>
-  <file name="blog.html" crc="520375185" seo="true" mt="1528362431425" redirect="true"/>
-  <file name="menu.html" crc="3844190097" seo="true" mt="1527760051526" redirect="true"/>
+  <file name="menu.html" crc="3970351074" seo="true" mt="1532962964907" redirect="true"/>
   <file name="index.html" crc="3846852707" seo="true" mt="1529442480060" redirect="true"/>
   <file name="contact.html" crc="212417530" seo="true" mt="1527760051540" redirect="true"/>
   <file name="book.html" crc="530842919" seo="true" mt="1532516441059" redirect="true"/>
