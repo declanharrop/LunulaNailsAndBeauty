@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="lunulanailsandbeauty.com" resolutions="1x,2x" timestamp="1533767606542">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="lunulanailsandbeauty.com" resolutions="1x,2x" timestamp="1533768306434">
   <folder name="css">
     <file name="site_global.css" crc="4278691848"/>
     <file name="master_person.css" crc="131545287" ref="carly:nat:georgia:ellen:paige:emma:sam:alicia:faye:nikki:kat"/>
@@ -23,8 +23,8 @@
     <file name="body.css" crc="4080226311" ref="body"/>
     <file name="nomq_body.css" crc="4046051397" ref="body"/>
     <file name="iefonts_body.css" crc="360914807" ref="body"/>
-    <file name="team.css" crc="195624772" ref="team"/>
-    <file name="nomq_team.css" crc="4033391673" ref="team"/>
+    <file name="team.css" crc="4093132730" ref="team"/>
+    <file name="nomq_team.css" crc="17365610" ref="team"/>
     <file name="iefonts_team.css" crc="360914807" ref="team"/>
     <file name="nat.css" crc="370598929" ref="nat"/>
     <file name="nomq_nat.css" crc="4055799622" ref="nat"/>
@@ -142,11 +142,11 @@
       <caption webpage="info" alt="Lunula bottle logo"/>
       <caption webpage="body" alt="Lunula bottle logo"/>
       <caption webpage="body" alt="Lunula bottle logo"/>
-      <caption webpage="nails" alt="Lunula bottle logo"/>
-      <caption webpage="nails" alt="Lunula bottle logo"/>
       <caption webpage="contact" alt="Lunula bottle logo"/>
       <caption webpage="contact" alt="Lunula bottle logo"/>
       <caption webpage="contact" alt="Lunula bottle logo"/>
+      <caption webpage="book" alt="Lunula bottle logo"/>
+      <caption webpage="book" alt="Lunula bottle logo"/>
       <caption webpage="index" alt="Lunula bottle logo"/>
       <caption webpage="index" alt="Lunula bottle logo"/>
       <caption webpage="gallery" alt="Lunula bottle logo"/>
@@ -156,10 +156,10 @@
       <caption webpage="team" alt="Lunula bottle logo"/>
       <caption webpage="learn" alt="Lunula bottle logo"/>
       <caption webpage="learn" alt="Lunula bottle logo"/>
+      <caption webpage="nails" alt="Lunula bottle logo"/>
+      <caption webpage="nails" alt="Lunula bottle logo"/>
       <caption webpage="eyes" alt="Lunula bottle logo"/>
       <caption webpage="eyes" alt="Lunula bottle logo"/>
-      <caption webpage="book" alt="Lunula bottle logo"/>
-      <caption webpage="book" alt="Lunula bottle logo"/>
       <caption webpage="face" alt="Lunula bottle logo"/>
       <caption webpage="face" alt="Lunula bottle logo"/>
     </file>
@@ -171,11 +171,11 @@
       <caption webpage="info" alt="Lunula bottle logo"/>
       <caption webpage="body" alt="Lunula bottle logo"/>
       <caption webpage="body" alt="Lunula bottle logo"/>
-      <caption webpage="nails" alt="Lunula bottle logo"/>
-      <caption webpage="nails" alt="Lunula bottle logo"/>
       <caption webpage="contact" alt="Lunula bottle logo"/>
       <caption webpage="contact" alt="Lunula bottle logo"/>
       <caption webpage="contact" alt="Lunula bottle logo"/>
+      <caption webpage="book" alt="Lunula bottle logo"/>
+      <caption webpage="book" alt="Lunula bottle logo"/>
       <caption webpage="index" alt="Lunula bottle logo"/>
       <caption webpage="index" alt="Lunula bottle logo"/>
       <caption webpage="gallery" alt="Lunula bottle logo"/>
@@ -185,10 +185,10 @@
       <caption webpage="team" alt="Lunula bottle logo"/>
       <caption webpage="learn" alt="Lunula bottle logo"/>
       <caption webpage="learn" alt="Lunula bottle logo"/>
+      <caption webpage="nails" alt="Lunula bottle logo"/>
+      <caption webpage="nails" alt="Lunula bottle logo"/>
       <caption webpage="eyes" alt="Lunula bottle logo"/>
       <caption webpage="eyes" alt="Lunula bottle logo"/>
-      <caption webpage="book" alt="Lunula bottle logo"/>
-      <caption webpage="book" alt="Lunula bottle logo"/>
       <caption webpage="face" alt="Lunula bottle logo"/>
       <caption webpage="face" alt="Lunula bottle logo"/>
     </file>
@@ -326,11 +326,11 @@
       <caption webpage="info" alt="ThirtyEight Co Logo"/>
       <caption webpage="body" alt="ThirtyEight Co Logo"/>
       <caption webpage="body" alt="ThirtyEight Co Logo"/>
-      <caption webpage="nails" alt="ThirtyEight Co Logo"/>
-      <caption webpage="nails" alt="ThirtyEight Co Logo"/>
       <caption webpage="contact" alt="ThirtyEight Co Logo"/>
       <caption webpage="contact" alt="ThirtyEight Co Logo"/>
       <caption webpage="contact" alt="ThirtyEight Co Logo"/>
+      <caption webpage="book" alt="ThirtyEight Co Logo"/>
+      <caption webpage="book" alt="ThirtyEight Co Logo"/>
       <caption webpage="index" alt="ThirtyEight Co Logo"/>
       <caption webpage="index" alt="ThirtyEight Co Logo"/>
       <caption webpage="gallery" alt="ThirtyEight Co Logo"/>
@@ -340,10 +340,10 @@
       <caption webpage="team" alt="ThirtyEight Co Logo"/>
       <caption webpage="learn" alt="ThirtyEight Co Logo"/>
       <caption webpage="learn" alt="ThirtyEight Co Logo"/>
+      <caption webpage="nails" alt="ThirtyEight Co Logo"/>
+      <caption webpage="nails" alt="ThirtyEight Co Logo"/>
       <caption webpage="eyes" alt="ThirtyEight Co Logo"/>
       <caption webpage="eyes" alt="ThirtyEight Co Logo"/>
-      <caption webpage="book" alt="ThirtyEight Co Logo"/>
-      <caption webpage="book" alt="ThirtyEight Co Logo"/>
       <caption webpage="face" alt="ThirtyEight Co Logo"/>
       <caption webpage="face" alt="ThirtyEight Co Logo"/>
     </file>
@@ -498,7 +498,7 @@
   <file name="contact.html" crc="212417530" seo="true" mt="1527760051540" redirect="true"/>
   <file name="book.html" crc="530842919" seo="true" mt="1532516441059" redirect="true"/>
   <file name="body.html" crc="536543209" seo="true" mt="1527766713290" redirect="true"/>
-  <file name="team.html" crc="3845888533" seo="true" mt="1533767494925" redirect="true"/>
+  <file name="team.html" crc="500448919" seo="true" mt="1533768161437" redirect="true"/>
   <file name="alicia.html" crc="160624770" seo="true" mt="1527673119103" redirect="true"/>
   <file name="paige.html" crc="359071377" seo="true" mt="1527673119103" redirect="true"/>
   <file name="carly.html" crc="4141812027" seo="true" mt="1527673119103" redirect="true"/>
