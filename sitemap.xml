@@ -31,12 +31,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lunulanailsandbeauty.com/janine.html</loc>
-    <lastmod>2018-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://lunulanailsandbeauty.com/kat.html</loc>
     <lastmod>2018-05-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -73,12 +67,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lunulanailsandbeauty.com/becca.html</loc>
-    <lastmod>2018-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://lunulanailsandbeauty.com/carly.html</loc>
     <lastmod>2018-05-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -98,7 +86,7 @@
   </url>
   <url>
     <loc>http://lunulanailsandbeauty.com/team.html</loc>
-    <lastmod>2018-06-07</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -107,6 +95,14 @@
     </image:image>
     <image:image>
       <image:loc>http://lunulanailsandbeauty.com/images/bottle_2x.png</image:loc>
+      <image:caption>Lunula bottle logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://lunulanailsandbeauty.com/images/bottle18x51.png</image:loc>
+      <image:caption>Lunula bottle logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://lunulanailsandbeauty.com/images/bottle18x51_2x.png</image:loc>
       <image:caption>Lunula bottle logo</image:caption>
     </image:image>
     <image:image>
@@ -136,14 +132,6 @@
     <image:image>
       <image:loc>http://lunulanailsandbeauty.com/images/carly_headshot_2x.png</image:loc>
       <image:caption>Carly</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://lunulanailsandbeauty.com/images/becca_headshot.jpg</image:loc>
-      <image:caption>Becca</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://lunulanailsandbeauty.com/images/becca_headshot_2x.jpg</image:loc>
-      <image:caption>Becca</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://lunulanailsandbeauty.com/images/ellen_headshot.jpg</image:loc>
@@ -192,14 +180,6 @@
     <image:image>
       <image:loc>http://lunulanailsandbeauty.com/images/kat_headshot_2x.png</image:loc>
       <image:caption>Kat</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://lunulanailsandbeauty.com/images/janine_headshot.png</image:loc>
-      <image:caption>Janine</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://lunulanailsandbeauty.com/images/janine_headshot_2x.png</image:loc>
-      <image:caption>Janine</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://lunulanailsandbeauty.com/images/sam_headshot.jpg</image:loc>
@@ -407,6 +387,18 @@
     </image:image>
   </url>
   <url>
+    <loc>http://lunulanailsandbeauty.com/assets/toespedistand.jpg</loc>
+    <lastmod>2018-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lunulanailsandbeauty.com/assets/toespedilux.jpg</loc>
+    <lastmod>2018-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://lunulanailsandbeauty.com/assets/toespediluxgel.jpg</loc>
     <lastmod>2018-01-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -443,20 +435,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lunulanailsandbeauty.com/assets/fingtenance.jpg</loc>
-    <lastmod>2018-01-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://lunulanailsandbeauty.com/assets/toespedistand.jpg</loc>
+    <loc>http://lunulanailsandbeauty.com/assets/toesgelall.jpg</loc>
     <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lunulanailsandbeauty.com/assets/toespedilux.jpg</loc>
+    <loc>http://lunulanailsandbeauty.com/assets/toespedistandgel.jpg</loc>
     <lastmod>2018-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lunulanailsandbeauty.com/assets/dipextendaxents.jpg</loc>
+    <lastmod>2018-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -509,18 +501,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lunulanailsandbeauty.com/assets/toespedistandgel.jpg</loc>
-    <lastmod>2018-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://lunulanailsandbeauty.com/assets/toesgelall.jpg</loc>
-    <lastmod>2018-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://lunulanailsandbeauty.com/assets/toesgelbasix.jpg</loc>
     <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -551,12 +531,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lunulanailsandbeauty.com/assets/eyemakeuponly.jpg</loc>
-    <lastmod>2018-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://lunulanailsandbeauty.com/assets/finggelbasix.jpg</loc>
     <lastmod>2018-01-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -565,6 +539,12 @@
   <url>
     <loc>http://lunulanailsandbeauty.com/assets/fingfile-polish.jpg</loc>
     <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lunulanailsandbeauty.com/assets/eyemakeuponly.jpg</loc>
+    <lastmod>2018-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -641,8 +621,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lunulanailsandbeauty.com/assets/dipextendadvanced.jpg</loc>
-    <lastmod>2018-03-20</lastmod>
+    <loc>http://lunulanailsandbeauty.com/assets/fingtenance.jpg</loc>
+    <lastmod>2018-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -653,7 +633,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lunulanailsandbeauty.com/assets/dipextendaxents.jpg</loc>
+    <loc>http://lunulanailsandbeauty.com/assets/dipextendadvanced.jpg</loc>
     <lastmod>2018-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
