@@ -242,14 +242,6 @@
       <image:caption>Emma</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://lunulanailsandbeauty.com/images/sophie_headshot.jpg</image:loc>
-      <image:caption>Natalie</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://lunulanailsandbeauty.com/images/sophie_headshot_2x.jpg</image:loc>
-      <image:caption>Natalie</image:caption>
-    </image:image>
-    <image:image>
       <image:loc>http://lunulanailsandbeauty.com/images/claire_headshot.jpg</image:loc>
       <image:caption>Georgia</image:caption>
     </image:image>
@@ -276,7 +268,7 @@
   </url>
   <url>
     <loc>http://lunulanailsandbeauty.com/body.html</loc>
-    <lastmod>2018-05-31</lastmod>
+    <lastmod>2018-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -285,6 +277,14 @@
     </image:image>
     <image:image>
       <image:loc>http://lunulanailsandbeauty.com/images/bottle_2x.png</image:loc>
+      <image:caption>Lunula bottle logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://lunulanailsandbeauty.com/images/bottle18x51.png</image:loc>
+      <image:caption>Lunula bottle logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://lunulanailsandbeauty.com/images/bottle18x51_2x.png</image:loc>
       <image:caption>Lunula bottle logo</image:caption>
     </image:image>
     <image:image>
