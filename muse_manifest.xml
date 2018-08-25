@@ -1,30 +1,30 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="lunulanailsandbeauty.com" resolutions="1x,2x" timestamp="1535041406426">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="lunulanailsandbeauty.com" resolutions="1x,2x" timestamp="1535214285780">
   <folder name="css">
     <file name="site_global.css" crc="3989616870"/>
     <file name="master_person.css" crc="518837484" ref="carly:nat:georgia:ellen:paige:emma:sam:alicia:faye:nikki:kat:chloe:sophie:carolyn:evie:claire:lucy"/>
     <file name="nomq_preview_master_person.css" crc="3824530138" ref="carly:nat:georgia:ellen:paige:emma:sam:alicia:faye:nikki:kat:chloe:sophie:carolyn:evie:claire:lucy"/>
-    <file name="master_mainmaster.css" crc="3870499189" ref="learn:face:index:gallery:body:team:book:eyes:nails:info:contact"/>
-    <file name="nomq_preview_master_mainmaster.css" crc="492876735" ref="learn:face:index:gallery:body:team:book:eyes:nails:info:contact"/>
-    <file name="learn.css" crc="4025579652" ref="learn"/>
-    <file name="nomq_learn.css" crc="465914938" ref="learn"/>
+    <file name="master_mainmaster.css" crc="3870910752" ref="learn:face:index:gallery:body:team:book:eyes:nails:info:contact"/>
+    <file name="nomq_preview_master_mainmaster.css" crc="4168634890" ref="learn:face:index:gallery:body:team:book:eyes:nails:info:contact"/>
+    <file name="learn.css" crc="3779300636" ref="learn"/>
+    <file name="nomq_learn.css" crc="400818027" ref="learn"/>
     <file name="iefonts_learn.css" crc="360914807" ref="learn"/>
-    <file name="face.css" crc="3886873174" ref="face"/>
+    <file name="face.css" crc="207032336" ref="face"/>
     <file name="nomq_face.css" crc="4010299163" ref="face"/>
     <file name="iefonts_face.css" crc="360914807" ref="face"/>
     <file name="carly.css" crc="4254295183" ref="carly"/>
     <file name="nomq_carly.css" crc="28213753" ref="carly"/>
     <file name="iefonts_carly.css" crc="360914807" ref="carly"/>
-    <file name="index.css" crc="206301903" ref="index"/>
+    <file name="index.css" crc="3784773425" ref="index"/>
     <file name="nomq_index.css" crc="418084739" ref="index"/>
     <file name="iefonts_index.css" crc="360914807" ref="index"/>
-    <file name="gallery.css" crc="4077008742" ref="gallery"/>
+    <file name="gallery.css" crc="4119935592" ref="gallery"/>
     <file name="nomq_gallery.css" crc="4115468172" ref="gallery"/>
     <file name="iefonts_gallery.css" crc="360914807" ref="gallery"/>
-    <file name="body.css" crc="4001323308" ref="body"/>
-    <file name="nomq_body.css" crc="4053826587" ref="body"/>
+    <file name="body.css" crc="4270636620" ref="body"/>
+    <file name="nomq_body.css" crc="304036044" ref="body"/>
     <file name="iefonts_body.css" crc="360914807" ref="body"/>
-    <file name="team.css" crc="321150209" ref="team"/>
-    <file name="nomq_team.css" crc="4154259722" ref="team"/>
+    <file name="team.css" crc="3887348430" ref="team"/>
+    <file name="nomq_team.css" crc="431056303" ref="team"/>
     <file name="iefonts_team.css" crc="360914807" ref="team"/>
     <file name="nat.css" crc="370598929" ref="nat"/>
     <file name="nomq_nat.css" crc="4055799622" ref="nat"/>
@@ -32,13 +32,13 @@
     <file name="georgia.css" crc="373247375" ref="georgia"/>
     <file name="nomq_georgia.css" crc="4064373231" ref="georgia"/>
     <file name="iefonts_georgia.css" crc="360914807" ref="georgia"/>
-    <file name="book.css" crc="313465466" ref="book"/>
-    <file name="nomq_book.css" crc="4128461847" ref="book"/>
+    <file name="book.css" crc="51518941" ref="book"/>
+    <file name="nomq_book.css" crc="4270725702" ref="book"/>
     <file name="iefonts_book.css" crc="360914807" ref="book"/>
     <file name="ellen.css" crc="418416310" ref="ellen"/>
     <file name="nomq_ellen.css" crc="454733175" ref="ellen"/>
     <file name="iefonts_ellen.css" crc="360914807" ref="ellen"/>
-    <file name="eyes.css" crc="4241741200" ref="eyes"/>
+    <file name="eyes.css" crc="3878780297" ref="eyes"/>
     <file name="nomq_eyes.css" crc="276083478" ref="eyes"/>
     <file name="iefonts_eyes.css" crc="360914807" ref="eyes"/>
     <file name="paige.css" crc="4275597075" ref="paige"/>
@@ -53,21 +53,21 @@
     <file name="alicia.css" crc="524528303" ref="alicia"/>
     <file name="nomq_alicia.css" crc="42390892" ref="alicia"/>
     <file name="iefonts_alicia.css" crc="360914807" ref="alicia"/>
-    <file name="nails.css" crc="3802572648" ref="nails"/>
+    <file name="nails.css" crc="4021759793" ref="nails"/>
     <file name="nomq_nails.css" crc="251023746" ref="nails"/>
     <file name="iefonts_nails.css" crc="360914807" ref="nails"/>
-    <file name="info.css" crc="363841731" ref="info"/>
+    <file name="info.css" crc="3944074799" ref="info"/>
     <file name="nomq_info.css" crc="232564033" ref="info"/>
     <file name="iefonts_info.css" crc="360914807" ref="info"/>
-    <file name="menu.css" crc="382303405" ref="menu"/>
+    <file name="menu.css" crc="3957285854" ref="menu"/>
     <file name="faye.css" crc="4290233361" ref="faye"/>
     <file name="nomq_faye.css" crc="3968920702" ref="faye"/>
     <file name="iefonts_faye.css" crc="360914807" ref="faye"/>
     <file name="nikki.css" crc="4258034825" ref="nikki"/>
     <file name="nomq_nikki.css" crc="197744934" ref="nikki"/>
     <file name="iefonts_nikki.css" crc="360914807" ref="nikki"/>
-    <file name="contact.css" crc="115158117" ref="contact"/>
-    <file name="nomq_contact.css" crc="4140788967" ref="contact"/>
+    <file name="contact.css" crc="4159903420" ref="contact"/>
+    <file name="nomq_contact.css" crc="316301541" ref="contact"/>
     <file name="iefonts_contact.css" crc="360914807" ref="contact"/>
     <file name="kat.css" crc="3813077163" ref="kat"/>
     <file name="nomq_kat.css" crc="4150203183" ref="kat"/>
@@ -121,7 +121,6 @@
     <file name="toetenance.jpg" crc="4088420288" seo="true" mt="1517327995000"/>
     <file name="headerphoto3.jpg" crc="509107295" seo="true" mt="1516895553000"/>
     <file name="finalphoto.jpg" crc="4035936383" seo="true" mt="1527683489000"/>
-    <file name="mt-article-connect.php" crc="4132912990" seo="true" mt="1484078879000"/>
     <file name="fingtenance.jpg" crc="244012667" seo="true" mt="1517252848000"/>
     <file name="dipextendadvanced.jpg" crc="3872034742" seo="true" mt="1521551384000"/>
     <file name="dipextendaxents.jpg" crc="315136267" seo="true" mt="1521551384000"/>
@@ -147,71 +146,71 @@
     <file name="require.js" crc="7928878" ref="info:gallery:nails:eyes:learn:face:menu:index:contact:book:body:team:alicia:paige:carly:ellen:faye:nikki:emma:nat:kat:georgia:sam:chloe:carolyn:sophie:lucy:evie:claire"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3977583769" ref="info:menu:learn:body"/>
+    <file name="favicon.ico" crc="3977583769" ref="info"/>
     <file name="homeheaderimage.jpg" crc="3867917178" ref="info:learn:index:contact:body">
       <caption webpage="info" alt=""/>
       <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
     </file>
     <file name="bottle.png" crc="4277410488" seo="true" ref="info:gallery:nails:eyes:learn:face:index:contact:book:body:team">
-      <caption webpage="info" alt="Lunula bottle logo"/>
-      <caption webpage="info" alt="Lunula bottle logo"/>
-      <caption webpage="info" alt="Lunula bottle logo"/>
-      <caption webpage="body" alt="Lunula bottle logo"/>
-      <caption webpage="body" alt="Lunula bottle logo"/>
-      <caption webpage="body" alt="Lunula bottle logo"/>
-      <caption webpage="blog" alt="Lunula bottle logo"/>
-      <caption webpage="blog" alt="Lunula bottle logo"/>
-      <caption webpage="team" alt="Lunula bottle logo"/>
-      <caption webpage="team" alt="Lunula bottle logo"/>
-      <caption webpage="team" alt="Lunula bottle logo"/>
       <caption webpage="gallery" alt="Lunula bottle logo"/>
       <caption webpage="gallery" alt="Lunula bottle logo"/>
-      <caption webpage="index" alt="Lunula bottle logo"/>
-      <caption webpage="index" alt="Lunula bottle logo"/>
+      <caption webpage="info" alt="Lunula bottle logo"/>
+      <caption webpage="info" alt="Lunula bottle logo"/>
+      <caption webpage="info" alt="Lunula bottle logo"/>
+      <caption webpage="body" alt="Lunula bottle logo"/>
+      <caption webpage="body" alt="Lunula bottle logo"/>
+      <caption webpage="body" alt="Lunula bottle logo"/>
       <caption webpage="learn" alt="Lunula bottle logo"/>
       <caption webpage="learn" alt="Lunula bottle logo"/>
+      <caption webpage="blog" alt="Lunula bottle logo"/>
+      <caption webpage="blog" alt="Lunula bottle logo"/>
       <caption webpage="nails" alt="Lunula bottle logo"/>
       <caption webpage="nails" alt="Lunula bottle logo"/>
-      <caption webpage="eyes" alt="Lunula bottle logo"/>
-      <caption webpage="eyes" alt="Lunula bottle logo"/>
+      <caption webpage="index" alt="Lunula bottle logo"/>
+      <caption webpage="index" alt="Lunula bottle logo"/>
+      <caption webpage="team" alt="Lunula bottle logo"/>
+      <caption webpage="team" alt="Lunula bottle logo"/>
+      <caption webpage="team" alt="Lunula bottle logo"/>
       <caption webpage="book" alt="Lunula bottle logo"/>
       <caption webpage="book" alt="Lunula bottle logo"/>
-      <caption webpage="contact" alt="Lunula bottle logo"/>
-      <caption webpage="contact" alt="Lunula bottle logo"/>
-      <caption webpage="contact" alt="Lunula bottle logo"/>
+      <caption webpage="eyes" alt="Lunula bottle logo"/>
+      <caption webpage="eyes" alt="Lunula bottle logo"/>
       <caption webpage="face" alt="Lunula bottle logo"/>
       <caption webpage="face" alt="Lunula bottle logo"/>
+      <caption webpage="contact" alt="Lunula bottle logo"/>
+      <caption webpage="contact" alt="Lunula bottle logo"/>
+      <caption webpage="contact" alt="Lunula bottle logo"/>
     </file>
     <file name="bottle_2x.png" crc="522649580" seo="true" ref="info:gallery:nails:eyes:learn:face:index:contact:book:body:team">
-      <caption webpage="info" alt="Lunula bottle logo"/>
-      <caption webpage="info" alt="Lunula bottle logo"/>
-      <caption webpage="info" alt="Lunula bottle logo"/>
-      <caption webpage="body" alt="Lunula bottle logo"/>
-      <caption webpage="body" alt="Lunula bottle logo"/>
-      <caption webpage="body" alt="Lunula bottle logo"/>
-      <caption webpage="blog" alt="Lunula bottle logo"/>
-      <caption webpage="blog" alt="Lunula bottle logo"/>
-      <caption webpage="team" alt="Lunula bottle logo"/>
-      <caption webpage="team" alt="Lunula bottle logo"/>
-      <caption webpage="team" alt="Lunula bottle logo"/>
       <caption webpage="gallery" alt="Lunula bottle logo"/>
       <caption webpage="gallery" alt="Lunula bottle logo"/>
-      <caption webpage="index" alt="Lunula bottle logo"/>
-      <caption webpage="index" alt="Lunula bottle logo"/>
+      <caption webpage="info" alt="Lunula bottle logo"/>
+      <caption webpage="info" alt="Lunula bottle logo"/>
+      <caption webpage="info" alt="Lunula bottle logo"/>
+      <caption webpage="body" alt="Lunula bottle logo"/>
+      <caption webpage="body" alt="Lunula bottle logo"/>
+      <caption webpage="body" alt="Lunula bottle logo"/>
       <caption webpage="learn" alt="Lunula bottle logo"/>
       <caption webpage="learn" alt="Lunula bottle logo"/>
+      <caption webpage="blog" alt="Lunula bottle logo"/>
+      <caption webpage="blog" alt="Lunula bottle logo"/>
       <caption webpage="nails" alt="Lunula bottle logo"/>
       <caption webpage="nails" alt="Lunula bottle logo"/>
-      <caption webpage="eyes" alt="Lunula bottle logo"/>
-      <caption webpage="eyes" alt="Lunula bottle logo"/>
+      <caption webpage="index" alt="Lunula bottle logo"/>
+      <caption webpage="index" alt="Lunula bottle logo"/>
+      <caption webpage="team" alt="Lunula bottle logo"/>
+      <caption webpage="team" alt="Lunula bottle logo"/>
+      <caption webpage="team" alt="Lunula bottle logo"/>
       <caption webpage="book" alt="Lunula bottle logo"/>
       <caption webpage="book" alt="Lunula bottle logo"/>
-      <caption webpage="contact" alt="Lunula bottle logo"/>
-      <caption webpage="contact" alt="Lunula bottle logo"/>
-      <caption webpage="contact" alt="Lunula bottle logo"/>
+      <caption webpage="eyes" alt="Lunula bottle logo"/>
+      <caption webpage="eyes" alt="Lunula bottle logo"/>
       <caption webpage="face" alt="Lunula bottle logo"/>
       <caption webpage="face" alt="Lunula bottle logo"/>
+      <caption webpage="contact" alt="Lunula bottle logo"/>
+      <caption webpage="contact" alt="Lunula bottle logo"/>
+      <caption webpage="contact" alt="Lunula bottle logo"/>
     </file>
     <file name="bookonline.png" crc="4215978307" ref="info:contact">
       <caption webpage="info" alt=""/>
@@ -225,73 +224,60 @@
     <file name="bookonlinealt_2x.png" crc="42526462" ref="info:contact">
       <caption webpage="info" alt=""/>
     </file>
-    <file name="text.png" crc="447409146" ref="info:gallery:contact:team:learn:body">
-      <caption webpage="learn" alt="Lunula bottle logo"/>
+    <file name="text.png" crc="447409146" ref="info:gallery:contact:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt="Lunula bottle logo"/>
       <caption webpage="body" alt="Lunula bottle logo"/>
       <caption webpage="team" alt="Lunula bottle logo"/>
     </file>
-    <file name="text_2x.png" crc="278067280" ref="info:gallery:contact:team:learn:body">
-      <caption webpage="learn" alt="Lunula bottle logo"/>
+    <file name="text_2x.png" crc="278067280" ref="info:gallery:contact:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt="Lunula bottle logo"/>
       <caption webpage="body" alt="Lunula bottle logo"/>
       <caption webpage="team" alt="Lunula bottle logo"/>
     </file>
-    <file name="textalt.png" crc="326524193" ref="info:gallery:contact:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="textalt.png" crc="326524193" ref="info:gallery:contact:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="textalt_2x.png" crc="4185615889" ref="info:gallery:contact:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="textalt_2x.png" crc="4185615889" ref="info:gallery:contact:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="call.png" crc="232044142" ref="info:gallery:contact:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="call.png" crc="232044142" ref="info:gallery:contact:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="call_2x.png" crc="29362534" ref="info:gallery:contact:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="call_2x.png" crc="29362534" ref="info:gallery:contact:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="callalt.png" crc="397698166" ref="info:gallery:contact:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="callalt.png" crc="397698166" ref="info:gallery:contact:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="callalt_2x.png" crc="4153828135" ref="info:gallery:contact:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="callalt_2x.png" crc="4153828135" ref="info:gallery:contact:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="bottle18x51.png" crc="3951013587" seo="true" ref="info:learn:body">
-      <caption webpage="learn" alt="Lunula bottle logo"/>
-      <caption webpage="learn" alt="Lunula bottle logo"/>
+    <file name="bottle18x51.png" crc="3951013587" seo="true" ref="info">
       <caption webpage="info" alt="Lunula bottle logo"/>
       <caption webpage="info" alt="Lunula bottle logo"/>
       <caption webpage="info" alt="Lunula bottle logo"/>
-      <caption webpage="body" alt="Lunula bottle logo"/>
-      <caption webpage="body" alt="Lunula bottle logo"/>
-      <caption webpage="body" alt="Lunula bottle logo"/>
-      <caption webpage="team" alt="Lunula bottle logo"/>
-      <caption webpage="team" alt="Lunula bottle logo"/>
-      <caption webpage="team" alt="Lunula bottle logo"/>
-    </file>
-    <file name="bottle18x51_2x.png" crc="125877925" seo="true" ref="info:learn:body">
       <caption webpage="learn" alt="Lunula bottle logo"/>
       <caption webpage="learn" alt="Lunula bottle logo"/>
-      <caption webpage="info" alt="Lunula bottle logo"/>
-      <caption webpage="info" alt="Lunula bottle logo"/>
-      <caption webpage="info" alt="Lunula bottle logo"/>
       <caption webpage="body" alt="Lunula bottle logo"/>
       <caption webpage="body" alt="Lunula bottle logo"/>
       <caption webpage="body" alt="Lunula bottle logo"/>
@@ -299,135 +285,148 @@
       <caption webpage="team" alt="Lunula bottle logo"/>
       <caption webpage="team" alt="Lunula bottle logo"/>
     </file>
-    <file name="instagramicon.png" crc="202582515" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="bottle18x51_2x.png" crc="125877925" seo="true" ref="info">
+      <caption webpage="info" alt="Lunula bottle logo"/>
+      <caption webpage="info" alt="Lunula bottle logo"/>
+      <caption webpage="info" alt="Lunula bottle logo"/>
+      <caption webpage="learn" alt="Lunula bottle logo"/>
+      <caption webpage="learn" alt="Lunula bottle logo"/>
+      <caption webpage="body" alt="Lunula bottle logo"/>
+      <caption webpage="body" alt="Lunula bottle logo"/>
+      <caption webpage="body" alt="Lunula bottle logo"/>
+      <caption webpage="team" alt="Lunula bottle logo"/>
+      <caption webpage="team" alt="Lunula bottle logo"/>
+      <caption webpage="team" alt="Lunula bottle logo"/>
+    </file>
+    <file name="instagramicon.png" crc="202582515" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="instagramicon_2x.png" crc="64272165" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="instagramicon_2x.png" crc="64272165" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="instagramiconalt.png" crc="4228133954" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="instagramiconalt.png" crc="4228133954" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="instagramiconalt_2x.png" crc="177309903" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="instagramiconalt_2x.png" crc="177309903" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="facebookicon.png" crc="360404180" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="facebookicon.png" crc="360404180" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="facebookicon_2x.png" crc="86390107" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="facebookicon_2x.png" crc="86390107" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="facebookiconalt.png" crc="3908318123" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="facebookiconalt.png" crc="3908318123" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="facebookiconalt_2x.png" crc="481744442" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="facebookiconalt_2x.png" crc="481744442" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="bookicon.png" crc="457624511" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="bookicon.png" crc="457624511" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="bookicon_2x.png" crc="470207894" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="bookicon_2x.png" crc="470207894" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="bookiconalt.png" crc="3986819507" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="bookiconalt.png" crc="3986819507" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="bookiconalt_2x.png" crc="159544182" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="bookiconalt_2x.png" crc="159544182" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
     <file name="u28323-4.png" crc="3830924702" ref="info:gallery:nails:eyes:learn:face:index:contact:book:body:team"/>
     <file name="u28323-4_2x.png" crc="70971729" ref="info:gallery:nails:eyes:learn:face:index:contact:book:body:team"/>
-    <file name="facebookiconwhite.png" crc="3845046807" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="facebookiconwhite.png" crc="3845046807" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="facebookiconwhite_2x.png" crc="4164746439" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="facebookiconwhite_2x.png" crc="4164746439" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="instagramiconwhite.png" crc="4114326717" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="instagramiconwhite.png" crc="4114326717" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
-    <file name="instagramiconwhite_2x.png" crc="3886830499" ref="info:gallery:team:learn:body">
-      <caption webpage="learn" alt=""/>
+    <file name="instagramiconwhite_2x.png" crc="3886830499" ref="info:gallery:team:body">
       <caption webpage="info" alt=""/>
+      <caption webpage="learn" alt=""/>
       <caption webpage="body" alt=""/>
       <caption webpage="team" alt=""/>
     </file>
     <file name="38cologowhite.svg" crc="418635069" seo="true" ref="info:gallery:nails:eyes:learn:face:index:contact:book:body:team">
-      <caption webpage="info" alt="ThirtyEight Co Logo"/>
-      <caption webpage="info" alt="ThirtyEight Co Logo"/>
-      <caption webpage="info" alt="ThirtyEight Co Logo"/>
-      <caption webpage="body" alt="ThirtyEight Co Logo"/>
-      <caption webpage="body" alt="ThirtyEight Co Logo"/>
-      <caption webpage="body" alt="ThirtyEight Co Logo"/>
-      <caption webpage="blog" alt="ThirtyEight Co Logo"/>
-      <caption webpage="blog" alt="ThirtyEight Co Logo"/>
-      <caption webpage="team" alt="ThirtyEight Co Logo"/>
-      <caption webpage="team" alt="ThirtyEight Co Logo"/>
-      <caption webpage="team" alt="ThirtyEight Co Logo"/>
       <caption webpage="gallery" alt="ThirtyEight Co Logo"/>
       <caption webpage="gallery" alt="ThirtyEight Co Logo"/>
-      <caption webpage="index" alt="ThirtyEight Co Logo"/>
-      <caption webpage="index" alt="ThirtyEight Co Logo"/>
+      <caption webpage="info" alt="ThirtyEight Co Logo"/>
+      <caption webpage="info" alt="ThirtyEight Co Logo"/>
+      <caption webpage="info" alt="ThirtyEight Co Logo"/>
+      <caption webpage="body" alt="ThirtyEight Co Logo"/>
+      <caption webpage="body" alt="ThirtyEight Co Logo"/>
+      <caption webpage="body" alt="ThirtyEight Co Logo"/>
       <caption webpage="learn" alt="ThirtyEight Co Logo"/>
       <caption webpage="learn" alt="ThirtyEight Co Logo"/>
+      <caption webpage="blog" alt="ThirtyEight Co Logo"/>
+      <caption webpage="blog" alt="ThirtyEight Co Logo"/>
       <caption webpage="nails" alt="ThirtyEight Co Logo"/>
       <caption webpage="nails" alt="ThirtyEight Co Logo"/>
-      <caption webpage="eyes" alt="ThirtyEight Co Logo"/>
-      <caption webpage="eyes" alt="ThirtyEight Co Logo"/>
+      <caption webpage="index" alt="ThirtyEight Co Logo"/>
+      <caption webpage="index" alt="ThirtyEight Co Logo"/>
+      <caption webpage="team" alt="ThirtyEight Co Logo"/>
+      <caption webpage="team" alt="ThirtyEight Co Logo"/>
+      <caption webpage="team" alt="ThirtyEight Co Logo"/>
       <caption webpage="book" alt="ThirtyEight Co Logo"/>
       <caption webpage="book" alt="ThirtyEight Co Logo"/>
-      <caption webpage="contact" alt="ThirtyEight Co Logo"/>
-      <caption webpage="contact" alt="ThirtyEight Co Logo"/>
-      <caption webpage="contact" alt="ThirtyEight Co Logo"/>
+      <caption webpage="eyes" alt="ThirtyEight Co Logo"/>
+      <caption webpage="eyes" alt="ThirtyEight Co Logo"/>
       <caption webpage="face" alt="ThirtyEight Co Logo"/>
       <caption webpage="face" alt="ThirtyEight Co Logo"/>
+      <caption webpage="contact" alt="ThirtyEight Co Logo"/>
+      <caption webpage="contact" alt="ThirtyEight Co Logo"/>
+      <caption webpage="contact" alt="ThirtyEight Co Logo"/>
     </file>
-    <file name="38cologowhite_poster_.png" crc="3823090775" ref="info:learn:body"/>
+    <file name="38cologowhite_poster_.png" crc="3823090775" ref="info"/>
     <file name="blank.gif" crc="4208392903" ref="info:gallery:nails:eyes:learn:face:index:contact:book:body:team:alicia:paige:carly:ellen:faye:nikki:emma:nat:kat:georgia:sam:chloe:carolyn:sophie:lucy:evie:claire"/>
     <file name="bottle20x62.png" crc="4093727284" seo="true" ref="menu">
       <caption webpage="menu" alt="Lunula bottle logo"/>
@@ -587,17 +586,17 @@
       <caption webpage="team" alt="Emma"/>
       <caption webpage="team" alt="Emma"/>
     </file>
-    <file name="sophie_headshot.jpg" crc="334576749" ref="team:sophie">
+    <file name="sophie_headshot.jpg" crc="334576749" ref="team:sophie" seo="true">
+      <caption webpage="team" alt="Natalie"/>
+      <caption webpage="team" alt="Natalie"/>
+      <caption webpage="team" alt="Natalie"/>
       <caption webpage="sophie" alt=""/>
-      <caption webpage="team" alt="Natalie"/>
-      <caption webpage="team" alt="Natalie"/>
-      <caption webpage="team" alt="Natalie"/>
     </file>
-    <file name="sophie_headshot_2x.jpg" crc="468424466" ref="team:sophie">
+    <file name="sophie_headshot_2x.jpg" crc="468424466" ref="team:sophie" seo="true">
+      <caption webpage="team" alt="Natalie"/>
+      <caption webpage="team" alt="Natalie"/>
+      <caption webpage="team" alt="Natalie"/>
       <caption webpage="sophie" alt=""/>
-      <caption webpage="team" alt="Natalie"/>
-      <caption webpage="team" alt="Natalie"/>
-      <caption webpage="team" alt="Natalie"/>
     </file>
     <file name="claire_headshot.jpg" crc="397693311" seo="true" ref="team:claire">
       <caption webpage="team" alt="Georgia"/>
@@ -629,19 +628,25 @@
       <caption webpage="team" alt="Sam"/>
       <caption webpage="team" alt="Sam"/>
     </file>
+    <file name="bloglink.jpg" crc="4013698704" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="bloglink_2x.jpg" crc="3814749900" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
   </folder>
-  <file name="info.html" crc="4134321126" seo="true" mt="1527760051540" redirect="true"/>
-  <file name="gallery.html" crc="4090878570" seo="true" mt="1527760051540" redirect="true"/>
-  <file name="nails.html" crc="4209944339" seo="true" mt="1529442353098" redirect="true"/>
-  <file name="eyes.html" crc="3883516087" seo="true" mt="1529442985659" redirect="true"/>
-  <file name="learn.html" crc="3885944596" seo="true" mt="1534194773459" redirect="true"/>
-  <file name="face.html" crc="3945243309" seo="true" mt="1529442599959" redirect="true"/>
-  <file name="menu.html" crc="3970351074" seo="true" mt="1532962964907" redirect="true"/>
-  <file name="index.html" crc="3846852707" seo="true" mt="1529442480060" redirect="true"/>
-  <file name="contact.html" crc="212417530" seo="true" mt="1527760051540" redirect="true"/>
-  <file name="book.html" crc="530842919" seo="true" mt="1532516441059" redirect="true"/>
-  <file name="body.html" crc="4206248953" seo="true" mt="1535041317052" redirect="true"/>
-  <file name="team.html" crc="437842823" seo="true" mt="1535040878944" redirect="true"/>
+  <file name="info.html" crc="3965692824" seo="true" mt="1535214090361" redirect="true"/>
+  <file name="gallery.html" crc="4026599525" seo="true" mt="1535214090361" redirect="true"/>
+  <file name="nails.html" crc="4234595134" seo="true" mt="1535214090361" redirect="true"/>
+  <file name="eyes.html" crc="15933028" seo="true" mt="1535214090361" redirect="true"/>
+  <file name="learn.html" crc="177202907" seo="true" mt="1535214090361" redirect="true"/>
+  <file name="face.html" crc="89082103" seo="true" mt="1535214090361" redirect="true"/>
+  <file name="menu.html" crc="456512191" seo="true" mt="1535214166066" redirect="true"/>
+  <file name="index.html" crc="3996824311" seo="true" mt="1535214090361" redirect="true"/>
+  <file name="contact.html" crc="319597908" seo="true" mt="1535214090361" redirect="true"/>
+  <file name="book.html" crc="4092029720" seo="true" mt="1535214090361" redirect="true"/>
+  <file name="body.html" crc="3933618632" seo="true" mt="1535214090393" redirect="true"/>
+  <file name="team.html" crc="181862361" seo="true" mt="1535214090361" redirect="true"/>
   <file name="alicia.html" crc="160624770" seo="true" mt="1527673119103" redirect="true"/>
   <file name="paige.html" crc="359071377" seo="true" mt="1527673119103" redirect="true"/>
   <file name="carly.html" crc="4141812027" seo="true" mt="1527673119103" redirect="true"/>
